@@ -37,7 +37,7 @@ Your demo should support your value proposition (not just “look what ChatGPT c
 """
 
 # Installing groq
-!pip install aisuite openai groq
+
 
 from google.colab import userdata
 import os
