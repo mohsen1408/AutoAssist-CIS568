@@ -1,0 +1,6 @@
+# Minimal (edit to match your notebook)
+jupyter
+notebook
+numpy
+pandas
+requests
