@@ -1,6 +1,6 @@
-# Minimal (edit to match your notebook)
-jupyter
-notebook
-numpy
-pandas
+gradio
+openai
+groq
+aisuite
+python-dotenv
 requests
